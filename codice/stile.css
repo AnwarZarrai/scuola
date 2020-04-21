@@ -1,0 +1,30 @@
+body {
+background : white;
+color: black;
+}
+/* Stili per i titoli h1 */
+h1 {
+color: red;
+font : 36px Helvetica, Arial, sans-serif;
+}
+h2 {
+color: red;
+font : 36px Helvetica, Arial, sans-serif;
+}
+/* Colore del testo delle liste */
+li {
+color :green;
+}
+table{
+	text-align :  center;
+	border :5px;
+	border-color: black;
+}
+td{
+	border:5px;
+	border-color: black;
+}
+tr{
+	border :5px;
+	border-color: black;
+}
